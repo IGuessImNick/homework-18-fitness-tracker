@@ -5,7 +5,7 @@
 This app is a fitness tracker that uses a NoSQL/mongoose database that connects to mongodb atlas. It is hosted on Heroku
 
 -----------
-![Demo](./images/demo.png)
+![Demo](./public/images/demo.png)
 
 ## Operations
 1. The app can be run locally by cloning the repository and setting up the localhost
